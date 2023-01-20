@@ -29,7 +29,7 @@ class ArrayParser(Resource):
 
     resp = {
       "is_success": True,
-      "user_id": "ayushi_jain_18031999",
+      "user_id": "ayushi_jain_78",
       "odd": odd_array,
       "even": even_array
     }
